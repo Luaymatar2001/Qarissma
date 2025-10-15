@@ -39,7 +39,7 @@ a,
     width: 100%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     overflow: hidden;
-    background: url("../../public/images/CurtineBackground.jpg") no-repeat center center;
+    background: url("./public/images/CurtineBackground.jpg") no-repeat center center;
     background-size: cover;
   }
 
