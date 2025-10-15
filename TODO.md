@@ -5,4 +5,4 @@
 - [x] Improve typography and spacing in TheCurtine.vue
 - [x] Add subtle animations to content elements
 - [x] Ensure responsiveness for mobile devices
-- [ ] Test the page for visual improvements
+- [x] Test the page for visual improvements
