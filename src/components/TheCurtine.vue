@@ -45,7 +45,7 @@ function restartCurtain() {
             <div class="content-text">
                 <div class="flex justify-center">
                     <img class="butterflies-bg"
-                        src="http://localhost:5173/images/freepik__a-minimalist-luxury-cafe-encased-in-a-transparent-__73947.png" alt="">
+                        src="../../public/images/freepik__a-minimalist-luxury-cafe-encased-in-a-transparent-__73947.png" alt="">
                 </div>
                 <p class="text-lg md:text-xl font-light leading-relaxed mb-8">Create an account to get full access to unlimited resources</p>
                 <div class="flex flex-col sm:flex-row gap-6 justify-center mt-4">
